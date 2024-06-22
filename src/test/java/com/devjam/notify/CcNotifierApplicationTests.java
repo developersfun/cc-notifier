@@ -1,13 +1,13 @@
-package com.devjam.notifier;
+package com.devjam.notify;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class NotifierApplicationTests {
+class CcNotifierApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
